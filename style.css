@@ -21,6 +21,10 @@ a{
 .navigation{
     border-bottom: solid;
     color: #828282;
+    width: 60%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1{
@@ -158,6 +162,14 @@ div#social_media{
     justify-content: center;
     padding-top: 46px;
 }
+
+.horizontal_list{
+    margin-right: 30px;
+}
+
+/* .horizontal .horizontal_list:not(last-child) {
+    margin-right: 0;
+} */
 
 .last_section{
     margin-top: 44px;
